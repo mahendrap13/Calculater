@@ -14,6 +14,7 @@
             color: white;
             border-radius: 50%;
             border:none;
+            outline:none;
         }
 
         .button1 {
